@@ -15,25 +15,31 @@ public class Test {
 	final public static String gauntletPath = "src\\resources\\lists\\gauntletgear.json";
 	final public static String waistPath = "src\\resources\\lists\\waistgear.json";
 	final public static String feetPath = "src\\resources\\lists\\feetgear.json";
-	
-	public static void main(String[] args)  {
+
+	public static void main(String[] args) {
 		JSONParser parser = new JSONParser();
 		JSONArray jsonArray;
 		JSONObject jsonObject;
 		try {
-			jsonArray = (JSONArray) parser.parse(new FileReader(headPath));
-			for(int i = 0; i < jsonArray.size(); i++) {
+			jsonArray = (JSONArray) parser.parse(new FileReader(gauntletPath));
+			for (int i = 0; i < jsonArray.size(); i++) {
 				jsonObject = (JSONObject) jsonArray.get(i);
 				JSONObject materials = (JSONObject) jsonObject.get("materials");
-//				System.out.println(materials.toString());
+				// System.out.println(materials.toString());
 				JSONObject materials1 = (JSONObject) materials.get("materials1");
 				JSONObject materials2 = (JSONObject) materials.get("materials2");
 				JSONObject materials3 = (JSONObject) materials.get("materials3");
 				JSONObject materials4 = (JSONObject) materials.get("materials4");
-				System.out.println((String) materials1.get("name"));
-				System.out.println((String) materials2.get("name"));
-				System.out.println((String) materials3.get("name"));
-				System.out.println((String) materials4.get("name"));
+				try {
+					System.out.println((String) materials1.get("name"));
+//					System.out.println((String) materials2.get("name"));
+//					System.out.println((String) materials3.get("name"));
+//					System.out.println((String) materials4.get("name"));
+				} catch (NullPointerException e) {
+					System.out.println("##########################");
+					System.out.println((String) jsonObject.get("name"));
+					System.out.println("##########################");
+				}
 			}
 		} catch (Exception e) {
 			e.printStackTrace();

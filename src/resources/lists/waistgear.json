@@ -5,16 +5,10 @@
          "skill1":{
             "quantity":"1",
             "name":"Stamina Surge"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"2",
       "iceDef":"0",
@@ -22,17 +16,9 @@
       "thunderDef":"0",
       "draongDef":"0",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"1",
             "name":"High-quality Pelt"
-         },
-         "materials3":{
-            "quantity":"",
-            "name":""
          },
          "materials1":{
             "quantity":"2",
@@ -45,18 +31,9 @@
    {
       "waterDef":"0",
       "skills":{
-         "skill1":{
-            "quantity":"",
-            "name":""
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
-         }
+
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"2",
@@ -65,17 +42,9 @@
       "thunderDef":"0",
       "draongDef":"0",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"1",
             "name":"High-quality Pelt"
-         },
-         "materials3":{
-            "quantity":"",
-            "name":""
          },
          "materials1":{
             "quantity":"2",
@@ -91,16 +60,10 @@
          "skill1":{
             "quantity":"1",
             "name":"Quick Sheath"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"0",
       "iceDef":"0",
@@ -108,17 +71,9 @@
       "thunderDef":"0",
       "draongDef":"0",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"2",
             "name":"Dragonite Ore"
-         },
-         "materials3":{
-            "quantity":"",
-            "name":""
          },
          "materials1":{
             "quantity":"2",
@@ -131,18 +86,9 @@
    {
       "waterDef":"2",
       "skills":{
-         "skill1":{
-            "quantity":"",
-            "name":""
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
-         }
+
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"0",
@@ -151,17 +97,9 @@
       "thunderDef":"0",
       "draongDef":"0",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"2",
             "name":"Dragonite ore"
-         },
-         "materials3":{
-            "quantity":"",
-            "name":""
          },
          "materials1":{
             "quantity":"2",
@@ -184,9 +122,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"2",
       "iceDef":"0",
@@ -194,17 +130,9 @@
       "thunderDef":"0",
       "draongDef":"0",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"3",
             "name":"Quality Bone"
-         },
-         "materials3":{
-            "quantity":"",
-            "name":""
          },
          "materials1":{
             "quantity":"2",
@@ -220,15 +148,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Master Gatherer"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"2",
@@ -237,17 +159,9 @@
       "thunderDef":"0",
       "draongDef":"0",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"3",
             "name":"Quality Bone"
-         },
-         "materials3":{
-            "quantity":"",
-            "name":""
          },
          "materials1":{
             "quantity":"2",
@@ -270,9 +184,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"2",
       "iceDef":"0",
@@ -280,10 +192,6 @@
       "thunderDef":"2",
       "draongDef":"2",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"2",
             "name":"Monster Bone+"
@@ -306,15 +214,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Horn Maestro"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"2",
@@ -323,10 +225,6 @@
       "thunderDef":"2",
       "draongDef":"2",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"2",
             "name":"Monster Bone+"
@@ -356,9 +254,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"-2",
       "iceDef":"-2",
@@ -392,15 +288,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Poison Resistance"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"-2",
@@ -442,8 +332,6 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"-1",
@@ -478,14 +366,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Honey Hunter"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
          "slotType2":"1",
          "slotType1":"2"
       },
@@ -528,9 +411,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"-1",
       "iceDef":"0",
@@ -564,14 +445,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Honey Hunter"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
          "slotType2":"1",
          "slotType1":"2"
       },
@@ -607,16 +483,10 @@
          "skill1":{
             "quantity":"2",
             "name":"Paralysis Resistance"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"-2",
       "iceDef":"1",
@@ -624,10 +494,6 @@
       "thunderDef":"1",
       "draongDef":"2",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"2",
             "name":"Vespoid Innerwing"
@@ -650,15 +516,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Paralysis Resistance"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"-2",
@@ -667,10 +527,6 @@
       "thunderDef":"1",
       "draongDef":"2",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"2",
             "name":"Vespoid Innerwing"
@@ -700,9 +556,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"-1",
       "iceDef":"0",
@@ -710,10 +564,6 @@
       "thunderDef":"0",
       "draongDef":"2",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"2",
             "name":"Hornetaur Innerwing"
@@ -736,15 +586,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Carving Pro"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"-1",
@@ -753,10 +597,6 @@
       "thunderDef":"0",
       "draongDef":"2",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"2",
             "name":"Hornetaur Innerwing"
@@ -786,9 +626,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"-2",
       "iceDef":"-1",
@@ -822,15 +660,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Fortify"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"-2",
@@ -865,16 +697,10 @@
          "skill1":{
             "quantity":"2",
             "name":"Item Prolonger"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"0",
       "iceDef":"1",
@@ -908,15 +734,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Item Prolonger"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"0",
@@ -958,9 +778,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"0",
       "iceDef":"-2",
@@ -994,15 +812,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Wide-Range"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"0",
@@ -1044,9 +856,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"0",
       "iceDef":"0",
@@ -1080,15 +890,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Effluvial Expert"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"0",
@@ -1123,16 +927,10 @@
          "skill1":{
             "quantity":"2",
             "name":"Poison Attack"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"0",
       "iceDef":"0",
@@ -1166,15 +964,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Poison Attack"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"0",
@@ -1216,9 +1008,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"-3",
       "iceDef":"-1",
@@ -1226,10 +1016,6 @@
       "thunderDef":"3",
       "draongDef":"0",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"3",
             "name":"Barroth Ridge+"
@@ -1252,15 +1038,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Muck Resistance"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"-3",
@@ -1269,10 +1049,6 @@
       "thunderDef":"3",
       "draongDef":"0",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"3",
             "name":"Barroth Ridge+"
@@ -1302,9 +1078,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"3",
       "iceDef":"-1",
@@ -1338,15 +1112,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Fire Resistance"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"3",
@@ -1381,16 +1149,10 @@
          "skill1":{
             "quantity":"2",
             "name":"Ice Resistance"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"-1",
       "iceDef":"0",
@@ -1398,10 +1160,6 @@
       "thunderDef":"-3",
       "draongDef":"0",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"2",
             "name":"Jyuratodus Carapace"
@@ -1424,15 +1182,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Ice Resistance"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"-1",
@@ -1441,10 +1193,6 @@
       "thunderDef":"-3",
       "draongDef":"0",
       "materials":{
-         "materials4":{
-            "quantity":"",
-            "name":""
-         },
          "materials2":{
             "quantity":"2",
             "name":"Jyuratodus Carapace"
@@ -1474,9 +1222,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"0",
       "iceDef":"0",
@@ -1510,14 +1256,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Thunder Attack"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
          "slotType2":"1",
          "slotType1":"1"
       },
@@ -1553,16 +1294,10 @@
          "skill1":{
             "quantity":"2",
             "name":"Divine Blessing"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"-3",
       "iceDef":"1",
@@ -1596,15 +1331,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Divine Blessing"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"-3",
@@ -1646,9 +1375,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"2",
       "iceDef":"0",
@@ -1689,8 +1416,6 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"2",
@@ -1732,9 +1457,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"3",
       "iceDef":"0",
@@ -1768,15 +1491,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Handicraft"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"3",
@@ -1811,16 +1528,10 @@
          "skill1":{
             "quantity":"2",
             "name":"Guard"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"0",
       "iceDef":"-1",
@@ -1854,15 +1565,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Guard"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"0",
@@ -1904,9 +1609,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"2",
       "iceDef":"0",
@@ -1940,15 +1643,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Artillery"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"2",
@@ -1990,9 +1687,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"4",
       "iceDef":"-2",
@@ -2026,15 +1721,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Fortify"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"4",
@@ -2076,9 +1765,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"0",
       "iceDef":"3",
@@ -2112,15 +1799,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Capacity Boost"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"0",
@@ -2155,16 +1836,10 @@
          "skill1":{
             "quantity":"2",
             "name":"Windproof"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"-2",
       "iceDef":"-1",
@@ -2198,15 +1873,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Windproof"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"3"
       },
       "fireDef":"-2",
@@ -2248,9 +1917,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"1",
       "iceDef":"0",
@@ -2284,15 +1951,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Geologist"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"1",
@@ -2334,9 +1995,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"3",
       "iceDef":"-2",
@@ -2370,15 +2029,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Quick Sheath"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"3",
@@ -2420,9 +2073,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"-1",
       "iceDef":"3",
@@ -2456,15 +2107,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Ice Attack"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"-1",
@@ -2506,9 +2151,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"2",
       "iceDef":"-3",
@@ -2542,15 +2185,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Critical Eye"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"2",
@@ -2592,9 +2229,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"3",
       "iceDef":"1",
@@ -2628,15 +2263,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Fire Attack"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"3",
@@ -2678,9 +2307,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"3",
       "iceDef":"-3",
@@ -2714,15 +2341,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Windproof"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"3"
       },
       "fireDef":"3",
@@ -2764,9 +2385,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"3",
       "iceDef":"-3",
@@ -2800,15 +2419,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Marathon Runner"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"3",
@@ -2850,9 +2463,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"2",
       "iceDef":"-4",
@@ -2886,15 +2497,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Resentment"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"2",
@@ -2936,7 +2541,6 @@
          }
       },
       "slots":{
-         "slotType3":"",
          "slotType2":"1",
          "slotType1":"1"
       },
@@ -2972,14 +2576,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Partbreaker"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
          "slotType2":"1",
          "slotType1":"2"
       },
@@ -3022,8 +2621,6 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"3",
@@ -3058,15 +2655,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Earplugs"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"3"
       },
       "fireDef":"3",
@@ -3108,8 +2699,6 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"4",
@@ -3144,10 +2733,6 @@
          "skill1":{
             "quantity":"1",
             "name":"Focus"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
@@ -3194,8 +2779,6 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"-2",
@@ -3230,15 +2813,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Dragon Resistance"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"3"
       },
       "fireDef":"-2",
@@ -3280,9 +2857,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"3",
       "iceDef":"3",
@@ -3316,14 +2891,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Dragon Attack"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
          "slotType2":"1",
          "slotType1":"1"
       },
@@ -3366,9 +2936,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"1",
       "iceDef":"1",
@@ -3402,15 +2970,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Attack Boost"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"1",
@@ -3452,9 +3014,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"3",
       "iceDef":"-3",
@@ -3488,15 +3048,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Blast Attack"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"3",
@@ -3538,9 +3092,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"0",
       "iceDef":"4",
@@ -3574,14 +3126,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Ice Attack"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
          "slotType2":"1",
          "slotType1":"1"
       },
@@ -3624,8 +3171,6 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"-4",
@@ -3660,14 +3205,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Peak Performance"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
          "slotType2":"1",
          "slotType1":"1"
       },
@@ -3710,9 +3250,7 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
-         "slotType1":""
+
       },
       "fireDef":"-3",
       "iceDef":"-2",
@@ -3746,10 +3284,6 @@
          "skill1":{
             "quantity":"1",
             "name":"Blight Resistance"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
@@ -3796,8 +3330,6 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"3"
       },
       "fireDef":"-3",
@@ -3832,14 +3364,9 @@
          "skill1":{
             "quantity":"2",
             "name":"Bright Resistance"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
          "slotType2":"1",
          "slotType1":"2"
       },
@@ -3882,8 +3409,6 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"0",
@@ -3918,10 +3443,6 @@
          "skill1":{
             "quantity":"1",
             "name":"Fortify"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
@@ -3968,8 +3489,6 @@
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"1"
       },
       "fireDef":"2",
@@ -4004,15 +3523,9 @@
          "skill1":{
             "quantity":"1",
             "name":"Mushroomancer"
-         },
-         "skill2":{
-            "quantity":"",
-            "name":""
          }
       },
       "slots":{
-         "slotType3":"",
-         "slotType2":"",
          "slotType1":"2"
       },
       "fireDef":"2",
