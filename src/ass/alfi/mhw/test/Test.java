@@ -8,13 +8,13 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
 public class Test {
-	final public static String itemsPath = "src\\items";
-	final public static String skillsPath = "src\\skills.json";
-	final public static String headPath = "src\\headgear.json";
-	final public static String chestPath = "src\\chestgear.json";
-	final public static String gauntletPath = "src\\gauntletgear.json";
-	final public static String waistPath = "src\\waistgear.json";
-	final public static String feetPath = "src\\feetgear.json";
+	final public static String itemsPath = "src\\resources\\lists\\items";
+	final public static String skillsPath = "src\\resources\\lists\\skills.json";
+	final public static String headPath = "src\\resources\\lists\\headgear.json";
+	final public static String chestPath = "src\\resources\\lists\\chestgear.json";
+	final public static String gauntletPath = "src\\resources\\lists\\gauntletgear.json";
+	final public static String waistPath = "src\\resources\\lists\\waistgear.json";
+	final public static String feetPath = "src\\resources\\lists\\feetgear.json";
 	
 	public static void main(String[] args)  {
 		JSONParser parser = new JSONParser();
@@ -22,16 +22,6 @@ public class Test {
 		JSONObject jsonObject;
 		try {
 			jsonArray = (JSONArray) parser.parse(new FileReader(headPath));
-//			System.out.println(jsonArray);
-			
-//			for (Object o: jsonArray) {
-//				System.out.println(o);
-//			}
-//			Iterator iterator = jsonArray.iterator();
-//			while (iterator.hasNext()) {
-//				System.out.println(iterator.next());
-//			}
-			System.out.println(jsonArray.size());
 			for(int i = 0; i < jsonArray.size(); i++) {
 				jsonObject = (JSONObject) jsonArray.get(i);
 				JSONObject materials = (JSONObject) jsonObject.get("materials");
