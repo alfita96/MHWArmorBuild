@@ -1,0 +1,4474 @@
+[
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Hunger Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"2",
+      "iceDef":"0",
+      "defense":"32",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"1",
+            "name":"High-quality Pelt"
+         },
+         "materials3":{
+            "quantity":"",
+            "name":""
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Carbalite Ore"
+         }
+      },
+      "price":"4000",
+      "name":"Leather Headgear Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Hunger Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"2",
+      "iceDef":"0",
+      "defense":"32",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"1",
+            "name":"High-quality Pelt"
+         },
+         "materials3":{
+            "quantity":"",
+            "name":""
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Carbalite Ore"
+         }
+      },
+      "price":"4000",
+      "name":"Leather Headgear Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Master Gatherer"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Guard"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"0",
+      "iceDef":"0",
+      "defense":"32",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Dragonite Ore"
+         },
+         "materials3":{
+            "quantity":"",
+            "name":""
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Carbalite Ore"
+         }
+      },
+      "price":"4000",
+      "name":"Chainmail Headgear Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Master Gatherer"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"0",
+      "iceDef":"0",
+      "defense":"32",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Dragonite Ore"
+         },
+         "materials3":{
+            "quantity":"",
+            "name":""
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Carbalite Ore"
+         }
+      },
+      "price":"4000",
+      "name":"Chainmail Headgear Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Scoutfly Range Up"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Scholar"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"2",
+      "iceDef":"0",
+      "defense":"36",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Jagras Scale+"
+         },
+         "materials3":{
+            "quantity":"",
+            "name":""
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Jagras Hide+"
+         }
+      },
+      "price":"4000",
+      "name":"Hunter's Headgear Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Scoutfly Range Up"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"2",
+      "iceDef":"0",
+      "defense":"36",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Jagras Scale+"
+         },
+         "materials3":{
+            "quantity":"",
+            "name":""
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Jagras Hide+"
+         }
+      },
+      "price":"4000",
+      "name":"Hunter's Headgear Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Health Boost"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Entomologist"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"2",
+      "iceDef":"0",
+      "defense":"36",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Monster Bone+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Warped Bone"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Quality Bone"
+         }
+      },
+      "price":"4000",
+      "name":"Bone Helm Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Health Boost"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"2",
+      "iceDef":"0",
+      "defense":"36",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Monster Bone+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Warped Bone"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Quality Bone"
+         }
+      },
+      "price":"4000",
+      "name":"Bone Helm Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Windproof"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Defense Boost"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-2",
+      "iceDef":"-2",
+      "defense":"36",
+      "thunderDef":"-2",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"5",
+            "name":"Machalite Ore"
+         },
+         "materials2":{
+            "quantity":"6",
+            "name":"Dragonite Ore"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Dragonvein Crystal"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Carbalite Ore"
+         }
+      },
+      "price":"4000",
+      "name":"Alloy Helm Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Windproof"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-2",
+      "iceDef":"-2",
+      "defense":"36",
+      "thunderDef":"-2",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"5",
+            "name":"Machalite Ore"
+         },
+         "materials2":{
+            "quantity":"6",
+            "name":"Dragonite Ore"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Dragonvein Crystal"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Carbalite Ore"
+         }
+      },
+      "price":"4000",
+      "name":"Alloy Helm Beta"
+   },
+   {
+      "waterDef":"-1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Evade Window"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Botanist"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-1",
+      "iceDef":"0",
+      "defense":"42",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Inferno Sac"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Carbalite Ore"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Monster Broth"
+         },
+         "materials1":{
+            "quantity":"1",
+            "name":"Great Hornfly"
+         }
+      },
+      "price":"6000",
+      "name":"King Beetle Vertex Alpha"
+   },
+   {
+      "waterDef":"-1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Evade Window"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-1",
+      "iceDef":"0",
+      "defense":"42",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Inferno Sac"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Carbalite Ore"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Monster Broth"
+         },
+         "materials1":{
+            "quantity":"1",
+            "name":"Great Hornfly"
+         }
+      },
+      "price":"6000",
+      "name":"King Beetle Vertex Beta"
+   },
+   {
+      "waterDef":"-1",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Botanist"
+         },
+         "skill2":{
+            "quantity":"2",
+            "name":"Evade Window"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-1",
+      "iceDef":"0",
+      "defense":"42",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Inferno Sac"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Carbalite Ore"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Monster Broth"
+         },
+         "materials1":{
+            "quantity":"1",
+            "name":"Great Hornfly"
+         }
+      },
+      "price":"6000",
+      "name":"Butterfly Vertex Alpha"
+   },
+   {
+      "waterDef":"-1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Evade Window"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-1",
+      "iceDef":"0",
+      "defense":"42",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Inferno Sac"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Carbalite Ore"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Monster Broth"
+         },
+         "materials1":{
+            "quantity":"1",
+            "name":"Great Hornfly"
+         }
+      },
+      "price":"6000",
+      "name":"Butterfly Vertex Beta"
+   },
+   {
+      "waterDef":"1",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Quick Sheath"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Paralysis Attack"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-2",
+      "iceDef":"1",
+      "defense":"38",
+      "thunderDef":"1",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Vespoid Innerwing"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Monster Keenbone"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Vespoid Carapace"
+         }
+      },
+      "price":"4000",
+      "name":"Vespoid Helm Alpha"
+   },
+   {
+      "waterDef":"1",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Quick Sheath"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-2",
+      "iceDef":"1",
+      "defense":"38",
+      "thunderDef":"1",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Vespoid Innerwing"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Monster Keenbone"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Vespoid Carapace"
+         }
+      },
+      "price":"4000",
+      "name":"Vespoid Helm Beta"
+   },
+   {
+      "waterDef":"-1",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Dungmaster"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Dragon Attack"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-1",
+      "iceDef":"0",
+      "defense":"38",
+      "thunderDef":"0",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Hornetaur Innerwing"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Monster Broth"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Hornetaur Carapace"
+         }
+      },
+      "price":"4000",
+      "name":"Hornetaur Helm Alpha"
+   },
+   {
+      "waterDef":"-1",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Dungmaster"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-1",
+      "iceDef":"0",
+      "defense":"38",
+      "thunderDef":"0",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Hornetaur Innerwing"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Monster Broth"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Hornetaur Carapace"
+         }
+      },
+      "price":"4000",
+      "name":"Hornetaur Helm Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Mushroomancer"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"2",
+      "iceDef":"2",
+      "defense":"40",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Novacrystal"
+         },
+         "materials2":{
+            "quantity":"1",
+            "name":"Anjanath Nosebone+"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Great Girros Hide+"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Mosswine Hide"
+         }
+      },
+      "price":"3000",
+      "name":"Mosswine Mask Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Detector"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Geologist"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"2",
+      "iceDef":"-3",
+      "defense":"40",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Shamos Scale+"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Dragonvein Crystal"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Shamos Hide+"
+         }
+      },
+      "price":"4000",
+      "name":"Shamos Goggles Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Detector"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"2",
+      "iceDef":"-3",
+      "defense":"40",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Shamos Scale+"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Dragonvein Crystal"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Shamos Hide+"
+         }
+      },
+      "price":"4000",
+      "name":"Shamos Goggles Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Speed Eating"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-2",
+      "iceDef":"-1",
+      "defense":"40",
+      "thunderDef":"-1",
+      "draongDef":"1",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Piercing Claw"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Great Jagras Mane"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Great Jagras Claw+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Great Jagras Hide+"
+         }
+      },
+      "price":"4000",
+      "name":"Jagras Helm Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Speed Eating"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-2",
+      "iceDef":"-1",
+      "defense":"40",
+      "thunderDef":"-1",
+      "draongDef":"1",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Piercing Claw"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Great Jagras Mane"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Great Jagras Claw+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Great Jagras Hide+"
+         }
+      },
+      "price":"4000",
+      "name":"Jagras Helm Beta"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Fire Resistance"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Weakness Exploit"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"0",
+      "iceDef":"1",
+      "defense":"40",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Kulu-Ya-Ku Hide+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Kulu-Ya-Ku Plume+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Kulu-Ya-Ku Scale+"
+         }
+      },
+      "price":"4000",
+      "name":"Kulu Headpiece Alpha"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Fire Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"1",
+         "slotType1":"1"
+      },
+      "fireDef":"0",
+      "iceDef":"1",
+      "defense":"40",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Kulu-Ya-Ku Hide+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Kulu-Ya-Ku Plume+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Kulu-Ya-Ku Scale+"
+         }
+      },
+      "price":"4000",
+      "name":"Kulu Headpiece Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Blindsider"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Stun Resistance"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"0",
+      "iceDef":"-2",
+      "defense":"40",
+      "thunderDef":"-3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"5",
+            "name":"Coral Crystal"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Tzitzi-Ya-Ku Hide+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Tzitzi-Ya-Ku Photophore+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Tzitzi-Ya-Ku Scale+"
+         }
+      },
+      "price":"6000",
+      "name":"Tzitzi Headgear Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Blindsider"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"0",
+      "iceDef":"-2",
+      "defense":"40",
+      "thunderDef":"-3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"5",
+            "name":"Coral Crystal"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Tzitzi-Ya-Ku Hide+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Tzitzi-Ya-Ku Photophore+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Tzitzi-Ya-Ku Scale+"
+         }
+      },
+      "price":"6000",
+      "name":"Tzitzi Headgear Beta"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Horn Maestro"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Paralysis Resistance"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"0",
+      "iceDef":"0",
+      "defense":"40",
+      "thunderDef":"2",
+      "draongDef":"1",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Girros Scale +"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Great Girros Hide+"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Great Girros Hood+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Great Girros Scale+"
+         }
+      },
+      "price":"4000",
+      "name":"Girros Mask Alpha"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Horn Maestro"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"0",
+      "iceDef":"0",
+      "defense":"40",
+      "thunderDef":"2",
+      "draongDef":"1",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Girros Scale+"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Great Girros Hide+"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Great Girros Hood+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Great Girros Scale+"
+         }
+      },
+      "price":"4000",
+      "name":"Girros Mask Beta"
+   },
+   {
+      "waterDef":"3",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Sporepuff Expert"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"0",
+      "iceDef":"0",
+      "defense":"42",
+      "thunderDef":"-3",
+      "draongDef":"1",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Toxin Sac"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Pukei-Pukei Tail"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Pukei-Pukei Wing"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Pukei-Pukei Carapace"
+         }
+      },
+      "price":"4000",
+      "name":"Pukei Hood Alpha"
+   },
+   {
+      "waterDef":"3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Sporepuff Expert"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"1",
+         "slotType1":"1"
+      },
+      "fireDef":"0",
+      "iceDef":"0",
+      "defense":"42",
+      "thunderDef":"-3",
+      "draongDef":"1",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Toxin Sac"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Pukei-Pukei Tail"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Pukei-Pukei Wing"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Pukei-Pukei Carapace"
+         }
+      },
+      "price":"4000",
+      "name":"Pukei Hood Beta"
+   },
+   {
+      "waterDef":"-1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Guard"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-3",
+      "iceDef":"-1",
+      "defense":"42",
+      "thunderDef":"3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Kestodon Carapace"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Barroth Tail"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Barroth Claw+"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Barroth Ridge+"
+         }
+      },
+      "price":"4000",
+      "name":"Barroth Helm Alpha"
+   },
+   {
+      "waterDef":"-1",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Guard"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-3",
+      "iceDef":"-1",
+      "defense":"42",
+      "thunderDef":"3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Kestodon Carapace"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Barroth Tail"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Barroth Claw+"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Barroth Ridge+"
+         }
+      },
+      "price":"4000",
+      "name":"Barroth Helm Beta"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Fire Attack"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Fire Resistance"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"3",
+      "iceDef":"-1",
+      "defense":"44",
+      "thunderDef":"-1",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Inferno Sac"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Anjanath Scale+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Anjanath Tail"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Anjanath Pelt+"
+         }
+      },
+      "price":"6000",
+      "name":"Anja Helm Alpha"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Fire Attack"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"3",
+      "iceDef":"-1",
+      "defense":"44",
+      "thunderDef":"-1",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Inferno Sac"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Anjanath Scale+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Anjanath Tail"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Anjanath Pelt+"
+         }
+      },
+      "price":"6000",
+      "name":"Anja Helm Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Aquatic Expert"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-1",
+      "iceDef":"0",
+      "defense":"44",
+      "thunderDef":"-3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"6",
+            "name":"Gajau Scale"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Jyuratodus Carapace"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Jyuratodus Fin+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Jyuratodus Scale+"
+         }
+      },
+      "price":"6000",
+      "name":"Jyura Helm Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Aquatic Expert"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-1",
+      "iceDef":"0",
+      "defense":"44",
+      "thunderDef":"-3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"6",
+            "name":"Gajau Scale"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Jyuratodus Carapace"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Jyuratodus Fin+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Jyuratodus Scale+"
+         }
+      },
+      "price":"6000",
+      "name":"Jyura Helm Beta"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Constitution"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"0",
+      "iceDef":"0",
+      "defense":"44",
+      "thunderDef":"3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Wyvern Gem"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Tobi-Kadachi Electrode+"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Tobi-Kadachi Claw+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Tobi-Kadachi Pelt+"
+         }
+      },
+      "price":"6000",
+      "name":"Kadachi Helm Alpha"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Constitution"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"0",
+      "iceDef":"0",
+      "defense":"44",
+      "thunderDef":"3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Wyvern Gem"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Tobi-Kadachi Electrode+"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Tobi-Kadachi Claw+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Tobi-Kadachi Pelt+"
+         }
+      },
+      "price":"6000",
+      "name":"Kadachi Helm Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Stamina Surge"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-3",
+      "iceDef":"1",
+      "defense":"44",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Lightcrystal"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Paolumu Wing"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Paolumu Pelt+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Paolumu Scale+"
+         }
+      },
+      "price":"6000",
+      "name":"Lumu Hat Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Stamina Surge"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"-3",
+      "iceDef":"1",
+      "defense":"44",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Lightcrystal"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Paolumu Wing"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Paolumu Pelt+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Paolumu Scale+"
+         }
+      },
+      "price":"6000",
+      "name":"Lumu Hat Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Health Boost"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Poison Attack"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"2",
+      "iceDef":"0",
+      "defense":"46",
+      "thunderDef":"-2",
+      "draongDef":"-3",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Inferno Sac"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Rathian Scale+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Rathian Webbing"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Rathian Carapace"
+         }
+      },
+      "price":"6000",
+      "name":"Rathian Helm Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Health Boost"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Poison Attack"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"2",
+      "iceDef":"0",
+      "defense":"46",
+      "thunderDef":"-2",
+      "draongDef":"-3",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Inferno Sac"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Rathian Scale+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Rathian Webbing"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Rathian Carapace"
+         }
+      },
+      "price":"6000",
+      "name":"Rathian Helm Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Evade Extender"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Poison Attack"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"3",
+      "iceDef":"0",
+      "defense":"52",
+      "thunderDef":"-3",
+      "draongDef":"-4",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Shamos Scale+"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Pink Rathian Carapace"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Monster Hardbone"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Pink Rathian Scale+"
+         }
+      },
+      "price":"9000",
+      "name":"Rath Heart Helm Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Evade Extender"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"3",
+      "iceDef":"0",
+      "defense":"52",
+      "thunderDef":"-3",
+      "draongDef":"-4",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Shamos Scale+"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Pink Rathian Carapace"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Monster Hardbone"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Pink Rathian Scale+"
+         }
+      },
+      "price":"9000",
+      "name":"Rath Heart Helm Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Tremor Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"0",
+      "iceDef":"-1",
+      "defense":"46",
+      "thunderDef":"0",
+      "draongDef":"-2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Wyvern Gem"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Radobaan Scale+"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Radobaan Medulla"
+         },
+         "materials1":{
+            "quantity":"6",
+            "name":"Radobaan Carapace"
+         }
+      },
+      "price":"6000",
+      "name":"Baan Helm Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Tremor Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"0",
+      "iceDef":"-1",
+      "defense":"46",
+      "thunderDef":"0",
+      "draongDef":"-2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Wyvern Gem"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Radobaan Scale+"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Radobaan Medulla"
+         },
+         "materials1":{
+            "quantity":"6",
+            "name":"Radobaan Carapace"
+         }
+      },
+      "price":"6000",
+      "name":"Baan Helm Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Flinch Free"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Blast Resistance"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"3",
+      "iceDef":"0",
+      "defense":"48",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"5",
+            "name":"Dragonite Ore"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Gastodon Carapace"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Kestodon Carapace"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Gastodon Horn"
+         }
+      },
+      "price":"6000",
+      "name":"Gastodon Horn Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Flinch Free"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"3",
+      "iceDef":"0",
+      "defense":"48",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"5",
+            "name":"Dragonite Ore"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Gastodon Carapace"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Kestodon Carapace"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Gastodon Horn"
+         }
+      },
+      "price":"6000",
+      "name":"Gastodon Horn Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Blast Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"2",
+      "iceDef":"0",
+      "defense":"48",
+      "thunderDef":"-3",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Gastodon Horn"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Dodogama Hide+"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Dodogame Jaw"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Dodogama Scale+"
+         }
+      },
+      "price":"6000",
+      "name":"Dodogama Helm Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Blast Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"2",
+      "iceDef":"0",
+      "defense":"48",
+      "thunderDef":"-3",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Gastodon Horn"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Dodogama Hide+"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Dodogame Jaw"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Dodogama Scale+"
+         }
+      },
+      "price":"6000",
+      "name":"Dodogama Helm Beta"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Handicraft"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Blast Attack"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"4",
+      "iceDef":"-2",
+      "defense":"44",
+      "thunderDef":"-1",
+      "draongDef":"-3",
+      "materials":{
+         "materials4":{
+            "quantity":"8",
+            "name":"Dragonite ore"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Zorah Magdaros Ridge"
+         },
+         "materials3":{
+            "quantity":"6",
+            "name":"Zorah Magdaros Carapace"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Zorah Magdaros Heat Scale"
+         }
+      },
+      "price":"9000",
+      "name":"Zorah Headgear Alpha"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Handicraft"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"4",
+      "iceDef":"-2",
+      "defense":"44",
+      "thunderDef":"-1",
+      "draongDef":"-3",
+      "materials":{
+         "materials4":{
+            "quantity":"8",
+            "name":"Dragonite Ore"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Zorah Magdaros Ridge"
+         },
+         "materials3":{
+            "quantity":"6",
+            "name":"Zorah Magdaros Carapace"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Zorah Magdaros Heat Scale"
+         }
+      },
+      "price":"9000",
+      "name":"Zorah Headgear Beta"
+   },
+   {
+      "waterDef":"-1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Ice Resistance"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Earplugs"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"0",
+      "iceDef":"3",
+      "defense":"50",
+      "thunderDef":"-2",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Barnos Hide+"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Carbalite Ore"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Dragonvein Crystal"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Fucium Ore"
+         }
+      },
+      "price":"9000",
+      "name":"High Metal Helm Alpha"
+   },
+   {
+      "waterDef":"-1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Ice Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"0",
+      "iceDef":"3",
+      "defense":"50",
+      "thunderDef":"-2",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Barnos Hide+"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Carbalite Ore"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Dragonvein Crystal"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Fucium Ore"
+         }
+      },
+      "price":"9000",
+      "name":"High Metal Helm Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Thunder Attack"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-2",
+      "iceDef":"-1",
+      "defense":"50",
+      "thunderDef":"3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Gastodon Horn"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Monster Hardbone"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Dragonite Ore"
+         },
+         "materials1":{
+            "quantity":"1",
+            "name":"Fucium Ore"
+         }
+      },
+      "price":"9000",
+      "name":"Ingot Helm Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Thunder Attack"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-2",
+      "iceDef":"-1",
+      "defense":"50",
+      "thunderDef":"3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Gastodon Horn"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Monster Hardbone"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Dragonite Ore"
+         },
+         "materials1":{
+            "quantity":"1",
+            "name":"Fucium Ore"
+         }
+      },
+      "price":"9000",
+      "name":"Ingot Helm Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Recovery Speed"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Horn Maestro"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"1",
+      "iceDef":"0",
+      "defense":"52",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Monster Hardbone"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Tzitzi Coin"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Gama Coin"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Hunter King Coin"
+         }
+      },
+      "price":"9000",
+      "name":"Brigade Lobos Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Recovery Speed"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"1",
+      "iceDef":"0",
+      "defense":"52",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Monster Hardbone"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Tzitzi Coin"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Gama Coin"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Hunter King Coin"
+         }
+      },
+      "price":"9000",
+      "name":"Brigade Lobos Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"3",
+            "name":"Palico Rally"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"2",
+      "iceDef":"2",
+      "defense":"56",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Firecell Stone"
+         },
+         "materials2":{
+            "quantity":"3",
+            "name":"Paolumu Pelt+"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"High-quality Pelt"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Tailraider Voucher"
+         }
+      },
+      "price":"9000",
+      "name":"Faux Felyne Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Critical Eye"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"2",
+      "iceDef":"2",
+      "defense":"56",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Novacrystal"
+         },
+         "materials3":{
+            "quantity":"6",
+            "name":"Fucium Ore"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Firecell Stone"
+         }
+      },
+      "price":"9000",
+      "name":"Strategist Spectacles Alpha"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Fire Attack"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Quick Sheath"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"3",
+      "iceDef":"-2",
+      "defense":"56",
+      "thunderDef":"1",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"6",
+            "name":"Monster Hardbone"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Lavasioth Carapace"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Lavasioth Fin+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Lavasioth Scale+"
+         }
+      },
+      "price":"9000",
+      "name":"Lavasioth Helm Alpha"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Fire Attack"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Quick Sheath"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"1",
+         "slotType1":"1"
+      },
+      "fireDef":"3",
+      "iceDef":"-2",
+      "defense":"56",
+      "thunderDef":"1",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"6",
+            "name":"Monster Hardbone"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Lavasioth Carapace"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Lavasioth Fin+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Lavasioth Scale+"
+         }
+      },
+      "price":"9000",
+      "name":"Lavasioth Helm Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Divine Blessing"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Ice Attack"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-1",
+      "iceDef":"3",
+      "defense":"54",
+      "thunderDef":"-3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Tzitzi-Ya-Ku Scale+"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Legiana Hide+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Freezer Sac"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Legiana Scale+"
+         }
+      },
+      "price":"9000",
+      "name":"Legiana Helm Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Divine Blessing"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-1",
+      "iceDef":"3",
+      "defense":"54",
+      "thunderDef":"-3",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"Tzitzi-Ya-Ku Scale+"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Legiana Hide+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Freezer Sac"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Legiana Scale+"
+         }
+      },
+      "price":"9000",
+      "name":"Legiana Helm Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Bleeding Resistance"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Critical Eye"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"2",
+      "iceDef":"-3",
+      "defense":"54",
+      "thunderDef":"-2",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Warped Bone"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Odogaron Sinew+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Odogaron Claw+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Odogaron Scale+"
+         }
+      },
+      "price":"9000",
+      "name":"Odogaron Helm Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Bleeding Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"2",
+      "iceDef":"-3",
+      "defense":"54",
+      "thunderDef":"-2",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Warped Bone"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Odogaron Sinew+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Odogaron Claw+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Odogaron Scale+"
+         }
+      },
+      "price":"9000",
+      "name":"Odogaron Helm Beta"
+   },
+   {
+      "waterDef":"1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Attack Boost"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Fire Attack"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"3",
+      "iceDef":"1",
+      "defense":"54",
+      "thunderDef":"-2",
+      "draongDef":"-3",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Rathalos Medulla"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Rathalos Carapace"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Inferno Sac"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Rathalos Scale+"
+         }
+      },
+      "price":"9000",
+      "name":"Rathalos Helm Alpha"
+   },
+   {
+      "waterDef":"1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Attack Boost"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"3",
+      "iceDef":"1",
+      "defense":"54",
+      "thunderDef":"-2",
+      "draongDef":"-3",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Rathalos Medulla"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Rathalos Carapace"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Inferno Sac"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Rathalos Scale+"
+         }
+      },
+      "price":"9000",
+      "name":"Rathalos Helm Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Critical Boost"
+         },
+         "skill2":{
+            "quantity":"2",
+            "name":"Intimidator"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"3",
+      "iceDef":"-3",
+      "defense":"56",
+      "thunderDef":"2",
+      "draongDef":"-4",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Rathalos Ruby"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Azure Rathalos Carapace"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Azure Rathalos Wing"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Azure Rathalos Scale+"
+         }
+      },
+      "price":"12000",
+      "name":"Rath Soul Helm Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Critical Boost"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"1",
+         "slotType1":"1"
+      },
+      "fireDef":"3",
+      "iceDef":"-3",
+      "defense":"56",
+      "thunderDef":"2",
+      "draongDef":"-4",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Rathalos Ruby"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Azure Rathalos Carapace"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Azure Rathalos Wing"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Azure Rathalos Scale+"
+         }
+      },
+      "price":"12000",
+      "name":"Rath Soul Helm Beta"
+   },
+   {
+      "waterDef":"-2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Critical Draw"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Heroics"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"3",
+      "iceDef":"-3",
+      "defense":"54",
+      "thunderDef":"0",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Wyvern Gem"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Diablos Fang"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Majestic Horn"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Diablos Ridge+"
+         }
+      },
+      "price":"9000",
+      "name":"Diablos Helm Alpha"
+   },
+   {
+      "waterDef":"-2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Critical Draw"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"3",
+      "iceDef":"-3",
+      "defense":"54",
+      "thunderDef":"0",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Wyvern Gem"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Diablos Fang"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Majestic Horn"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Diablos Ridge+"
+         }
+      },
+      "price":"9000",
+      "name":"Diablos Helm Beta"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Focus"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"2",
+      "iceDef":"-4",
+      "defense":"56",
+      "thunderDef":"0",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Novacrystal"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Majestic Horn"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Black Spiral Horn+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Black Diablos Ridge+"
+         }
+      },
+      "price":"12000",
+      "name":"Diablos Nero Helm Alpha"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Focus"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"3"
+      },
+      "fireDef":"2",
+      "iceDef":"-4",
+      "defense":"56",
+      "thunderDef":"0",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Novacrystal"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Majestic Horn"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Black Spiral Horn+"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Black Diablos Ridge+"
+         }
+      },
+      "price":"12000",
+      "name":"Diablos Nero Helm Beta"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Thunder Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"3"
+      },
+      "fireDef":"4",
+      "iceDef":"-2",
+      "defense":"60",
+      "thunderDef":"1",
+      "draongDef":"-2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Firecell Stone"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Uragaan Carapace"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Lava Nugget"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Uragaan Scale+"
+         }
+      },
+      "price":"12000",
+      "name":"Uragaan Helm Alpha"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Thunder Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"1",
+         "slotType1":"3"
+      },
+      "fireDef":"4",
+      "iceDef":"-2",
+      "defense":"60",
+      "thunderDef":"1",
+      "draongDef":"-2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Firecell Stone"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Uragaan Carapace"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Lava Nugget"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Uragaan Scale+"
+         }
+      },
+      "price":"12000",
+      "name":"Uragaan Helm Beta"
+   },
+   {
+      "waterDef":"1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Earplugs"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Blast Attack"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"3",
+      "iceDef":"-2",
+      "defense":"58",
+      "thunderDef":"-4",
+      "draongDef":"-2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Bazelgeuse Gem"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Bazelgeuse Talon"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Bazelgeuse Wing"
+         },
+         "materials1":{
+            "quantity":"5",
+            "name":"Bazelgeuse Carapace"
+         }
+      },
+      "price":"12000",
+      "name":"Bazel Helm Alpha"
+   },
+   {
+      "waterDef":"1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Earplugs"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"1",
+         "slotType1":"3"
+      },
+      "fireDef":"3",
+      "iceDef":"-2",
+      "defense":"58",
+      "thunderDef":"-4",
+      "draongDef":"-2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Bazelgeuse Gem"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Bazelgeuse Talon"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Bazelgeuse Wing"
+         },
+         "materials1":{
+            "quantity":"5",
+            "name":"Bazelgeuse Carapace"
+         }
+      },
+      "price":"12000",
+      "name":"Bazel Helm Beta"
+   },
+   {
+      "waterDef":"-2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Defense Boost"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Speed Sharpening"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"4",
+      "iceDef":"0",
+      "defense":"60",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Novacrystal"
+         },
+         "materials2":{
+            "quantity":"3",
+            "name":"Fucium Ore"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Great Girros Hood+"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Elder Dragon Blood"
+         }
+      },
+      "price":"12000",
+      "name":"Damascus Helm Alpha"
+   },
+   {
+      "waterDef":"-2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Defense Boost"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"3"
+      },
+      "fireDef":"4",
+      "iceDef":"0",
+      "defense":"60",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Novacrystall"
+         },
+         "materials2":{
+            "quantity":"3",
+            "name":"Fucium Ore"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Great Girros Hood+"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Elder Dragon Blood"
+         }
+      },
+      "price":"12000",
+      "name":"Damascus Helm Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Free Elem\/Ammo Up"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Dragon Resistance"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-2",
+      "iceDef":"-1",
+      "defense":"60",
+      "thunderDef":"-1",
+      "draongDef":"4",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Dragonbone Relic"
+         },
+         "materials2":{
+            "quantity":"3",
+            "name":"Quality Bone"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Bazelgeuse Fuse"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Elder Dragon Blood"
+         }
+      },
+      "price":"12000",
+      "name":"Dober Helm Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Free Elem\/Ammo Up"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-2",
+      "iceDef":"-1",
+      "defense":"60",
+      "thunderDef":"-1",
+      "draongDef":"4",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Dragonbone Relic"
+         },
+         "materials2":{
+            "quantity":"3",
+            "name":"Quality Bone"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Bazelgeuse Fuse"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Elder Dragon Blood"
+         }
+      },
+      "price":"12000",
+      "name":"Dober Helm Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Resuscitate"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Critical Eye"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"3",
+      "iceDef":"3",
+      "defense":"62",
+      "thunderDef":"-2",
+      "draongDef":"-4",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Piercing Claw"
+         },
+         "materials2":{
+            "quantity":"1",
+            "name":"Brutal Bone"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Vaal Hazak Membrane"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Sinister Cloth"
+         }
+      },
+      "price":"12000",
+      "name":"Death Stench Brain Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Resuscitate"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"3"
+      },
+      "fireDef":"3",
+      "iceDef":"3",
+      "defense":"62",
+      "thunderDef":"-2",
+      "draongDef":"-4",
+      "materials":{
+         "materials4":{
+            "quantity":"3",
+            "name":"Piercing Claw"
+         },
+         "materials2":{
+            "quantity":"1",
+            "name":"Brutal Bone"
+         },
+         "materials3":{
+            "quantity":"1",
+            "name":"Vaal Hazak Membrane"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Sinister Cloth"
+         }
+      },
+      "price":"12000",
+      "name":"Death Stench Brain Beta"
+   },
+   {
+      "waterDef":"-1",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Handicraft"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"-3",
+      "iceDef":"-1",
+      "defense":"64",
+      "thunderDef":"-1",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Dragonbone Relic"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Brutal Bone"
+         },
+         "materials3":{
+            "quantity":"3",
+            "name":"Warped Bone"
+         },
+         "materials1":{
+            "quantity":"1",
+            "name":"Unknown Skull"
+         }
+      },
+      "price":"12000",
+      "name":"Skull Mask Alpha"
+   },
+   {
+      "waterDef":"1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Maximum Might"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Attack Boost"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"1",
+      "iceDef":"1",
+      "defense":"64",
+      "thunderDef":"-3",
+      "draongDef":"-3",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Nergigante Gem"
+         },
+         "materials2":{
+            "quantity":"6",
+            "name":"Nergigante Carapace"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Immortal Dragonscale"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Nergigante Horn+"
+         }
+      },
+      "price":"16000",
+      "name":"Nergigante Helm Alpha"
+   },
+   {
+      "waterDef":"1",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Maximum Might"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"1",
+         "slotType1":"1"
+      },
+      "fireDef":"1",
+      "iceDef":"1",
+      "defense":"64",
+      "thunderDef":"-3",
+      "draongDef":"-3",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Nergigante Gem"
+         },
+         "materials2":{
+            "quantity":"6",
+            "name":"Nergigante Carapace"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Immortal Dragonscale"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Nergigante Horn+"
+         }
+      },
+      "price":"16000",
+      "name":"Nergigante Helm Beta"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Latent Power"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"3",
+      "iceDef":"-3",
+      "defense":"64",
+      "thunderDef":"1",
+      "draongDef":"1",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Firecell Stone"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Teostra Horn+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Teostra Tail"
+         },
+         "materials1":{
+            "quantity":"5",
+            "name":"Teostra Carapace"
+         }
+      },
+      "price":"16000",
+      "name":"Kaiser Crown Alpha"
+   },
+   {
+      "waterDef":"-3",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Latent Power"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"3",
+      "iceDef":"-3",
+      "defense":"64",
+      "thunderDef":"1",
+      "draongDef":"1",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Firecell Stone"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Teostra Horn+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Teostra Tail"
+         },
+         "materials1":{
+            "quantity":"5",
+            "name":"Teostra Carapace"
+         }
+      },
+      "price":"16000",
+      "name":"Kaiser Crown Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Ice Attack"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Handicraft"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"0",
+      "iceDef":"4",
+      "defense":"64",
+      "thunderDef":"-3",
+      "draongDef":"-2",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Elder Dragon Bone"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Daora Carapace"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Daora Webbing"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Daora Dragon Scale+"
+         }
+      },
+      "price":"16000",
+      "name":"Kushala Glare Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Ice Attack"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"1",
+         "slotType2":"1",
+         "slotType1":"1"
+      },
+      "fireDef":"0",
+      "iceDef":"4",
+      "defense":"64",
+      "thunderDef":"-3",
+      "draongDef":"-2",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Elder Dragon Blood"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Daora Carapace"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Daora Webbing"
+         },
+         "materials1":{
+            "quantity":"4",
+            "name":"Daora Dragon Scale+"
+         }
+      },
+      "price":"16000",
+      "name":"Kushala Glare Beta"
+   },
+   {
+      "waterDef":"4",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Peak Performance"
+         },
+         "skill2":{
+            "quantity":"2",
+            "name":"Dragon Attack"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-4",
+      "iceDef":"-1",
+      "defense":"64",
+      "thunderDef":"1",
+      "draongDef":"-3",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Elder Dragon Bone"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Vaal Hazak Carapace"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Vaal Hazak Talon"
+         },
+         "materials1":{
+            "quantity":"5",
+            "name":"Deceased Scale"
+         }
+      },
+      "price":"16000",
+      "name":"Vaal Hazak Helm Alpha"
+   },
+   {
+      "waterDef":"4",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Peak Performance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-4",
+      "iceDef":"-1",
+      "defense":"64",
+      "thunderDef":"1",
+      "draongDef":"-3",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Elder Dragon Bone"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Vaal Hazak Carapace"
+         },
+         "materials3":{
+            "quantity":"4",
+            "name":"Vaal Hazak Talon"
+         },
+         "materials1":{
+            "quantity":"5",
+            "name":"Deceased Scale"
+         }
+      },
+      "price":"16000",
+      "name":"Vaal Hazak Helm Beta"
+   },
+   {
+      "waterDef":"-2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Marathon Runner"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Divine Blessing"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":""
+      },
+      "fireDef":"-3",
+      "iceDef":"-2",
+      "defense":"64",
+      "thunderDef":"4",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Thunder Sac"
+         },
+         "materials2":{
+            "quantity":"1",
+            "name":"Kirin Azure Horn"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Shamos Scale+"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Kirin Hide+"
+         }
+      },
+      "price":"16000",
+      "name":"Kirin Horn Alpha"
+   },
+   {
+      "waterDef":"-2",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Marathon Runner"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-3",
+      "iceDef":"-2",
+      "defense":"64",
+      "thunderDef":"4",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Thunder Sac"
+         },
+         "materials2":{
+            "quantity":"1",
+            "name":"Kirin Azure Horn"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Shamos Scale+"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Kirin Hide+"
+         }
+      },
+      "price":"16000",
+      "name":"Kirin Horn Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Flinch Free"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Special Ammo Boost"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"-3",
+      "iceDef":"2",
+      "defense":"72",
+      "thunderDef":"2",
+      "draongDef":"-4",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Rathalos Plate"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Xeno'jiiva Shell"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Xeno'jiiva Horn"
+         },
+         "materials1":{
+            "quantity":"5",
+            "name":"Xeno'jiiva Soulscale"
+         }
+      },
+      "price":"20000",
+      "name":"Xeno'jiiva Headgear Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Flinch Free"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"-3",
+      "iceDef":"2",
+      "defense":"72",
+      "thunderDef":"2",
+      "draongDef":"-4",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"Rathalos Plate"
+         },
+         "materials2":{
+            "quantity":"4",
+            "name":"Xeno'jiiva Shell"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Xeno'jiiva Horn"
+         },
+         "materials1":{
+            "quantity":"5",
+            "name":"Xeno'jiiva Soulscale"
+         }
+      },
+      "price":"20000",
+      "name":"Xeno'jiiva Headgear Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Divine Blessing"
+         },
+         "skill2":{
+            "quantity":"2",
+            "name":"Thunder Resistance"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"0",
+      "iceDef":"0",
+      "defense":"62",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"High Commendation"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Flying Coin"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Hunter King Coin"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Ace Hunter Coin"
+         }
+      },
+      "price":"16000",
+      "name":"Guild Cross Circlet Alpha"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Divine Blessing"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"1",
+         "slotType2":"1",
+         "slotType1":"1"
+      },
+      "fireDef":"0",
+      "iceDef":"0",
+      "defense":"62",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"1",
+            "name":"High Commendation"
+         },
+         "materials2":{
+            "quantity":"2",
+            "name":"Flying Coin"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Hunter King Coin"
+         },
+         "materials1":{
+            "quantity":"3",
+            "name":"Ace Hunter Coin"
+         }
+      },
+      "price":"16000",
+      "name":"Guild Cross Circlet Beta"
+   },
+   {
+      "waterDef":"0",
+      "skills":{
+         "skill1":{
+            "quantity":"2",
+            "name":"Weakness Exploit"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"3"
+      },
+      "fireDef":"0",
+      "iceDef":"0",
+      "defense":"70",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"",
+            "name":""
+         },
+         "materials2":{
+            "quantity":"1",
+            "name":"High Commendation"
+         },
+         "materials3":{
+            "quantity":"6",
+            "name":"Immortal Dragonscale"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Dragonvein Crystal"
+         }
+      },
+      "price":"16000",
+      "name":"Dragonking Eyepatch Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Tool Specialist"
+         },
+         "skill2":{
+            "quantity":"1",
+            "name":"Master Gatherer"
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"1"
+      },
+      "fireDef":"2",
+      "iceDef":"2",
+      "defense":"70",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"High Commendation"
+         },
+         "materials2":{
+            "quantity":"8",
+            "name":"Rathian Scale+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Sinister Cloth"
+         },
+         "materials1":{
+            "quantity":"1",
+            "name":"Research Commission Ticket"
+         }
+      },
+      "price":"20000",
+      "name":"Commission Gorget Alpha"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Tool Specialist"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"",
+         "slotType1":"2"
+      },
+      "fireDef":"2",
+      "iceDef":"2",
+      "defense":"70",
+      "thunderDef":"2",
+      "draongDef":"2",
+      "materials":{
+         "materials4":{
+            "quantity":"2",
+            "name":"High Commendation"
+         },
+         "materials2":{
+            "quantity":"8",
+            "name":"Rathian Scale+"
+         },
+         "materials3":{
+            "quantity":"2",
+            "name":"Sinister Cloth"
+         },
+         "materials1":{
+            "quantity":"1",
+            "name":"Research Commission Ticket"
+         }
+      },
+      "price":"20000",
+      "name":"Commission Gorget Beta"
+   },
+   {
+      "waterDef":"2",
+      "skills":{
+         "skill1":{
+            "quantity":"1",
+            "name":"Fire Resistance"
+         },
+         "skill2":{
+            "quantity":"",
+            "name":""
+         }
+      },
+      "slots":{
+         "slotType3":"",
+         "slotType2":"1",
+         "slotType1":"2"
+      },
+      "fireDef":"3",
+      "iceDef":"2",
+      "defense":"46",
+      "thunderDef":"0",
+      "draongDef":"0",
+      "materials":{
+         "materials4":{
+            "quantity":"4",
+            "name":"Piercing Claw"
+         },
+         "materials2":{
+            "quantity":"7",
+            "name":"Shamos Sclae+"
+         },
+         "materials3":{
+            "quantity":"5",
+            "name":"Shamos Hide+"
+         },
+         "materials1":{
+            "quantity":"2",
+            "name":"Black Bandage"
+         }
+      },
+      "price":"4000",
+      "name":"Sealed Eyepeatch Alpha"
+   }
+]
