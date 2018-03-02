@@ -25,26 +25,6 @@ public class Test {
 
 	public static void main(String[] args) throws IOException {
 //		System.out.println(getSkillProperties(Skill.ATTACKBOOST.getSkill()));
-		BufferedImage img = scaleImage();
-		File outputfile = new File("C:\\Users\\John\\Desktop\\quest.png");
-		ImageIO.write(img, "png", outputfile);
-		
-
-	}
-	
-	public static BufferedImage scaleImage() {
-		BufferedImage bi = null;
-		try {
-			ImageIcon ii = new ImageIcon("C:\\Users\\John\\git\\MHWArmorBuild\\src\\resources\\icons\\quest.png");
-			bi = new BufferedImage(30, 30, BufferedImage.TYPE_INT_RGB);
-			Graphics2D g2d = (Graphics2D) bi.createGraphics();
-			g2d.addRenderingHints(new RenderingHints(RenderingHints.KEY_RENDERING, RenderingHints.VALUE_RENDER_QUALITY));
-			g2d.drawImage(ii.getImage(), 0, 0, 30, 30, null);
-		} catch (Exception e) {
-			e.printStackTrace();
-			return null;
-		}
-		return bi;
 	}
 
 	public static JSONArray parseJSON() {
