@@ -15,13 +15,16 @@ public class Quests {
 	private Document doc;
 	static final String MAIN = "Main";
 	static final String OPTIONAL = "Optional";
+	public ArrayList<String> error;
 
 	public ArrayList<String> questIterator(String pathname, boolean allMonsters) {
 		input = new File(pathname);
 		try {
 			doc = Jsoup.parse(input, "UTF-8", "");
 		} catch (IOException e) {
-			e.printStackTrace();
+			error = new ArrayList<String>();
+			error.add(e.getMessage());
+			return error;
 		}
 		Element table = doc.select("table > tbody").first();
 		Elements td = table.select("tr > td");
@@ -32,7 +35,7 @@ public class Quests {
 			int endTag = quest.text().indexOf(']');
 			String questType = quest.text().substring(1, endTag);
 			if (questType.equals("Assigned")) {
-				questType = Quests.MAIN;
+				questType = MAIN;
 			}
 
 			// Get quest level
@@ -64,8 +67,8 @@ public class Quests {
 	}
 
 	public ArrayList<String> getMonsterQuest(String monster) {
-		System.out.println(monster + " quests:\n");
 		ArrayList<String> quests = this.questIterator("src\\resources\\html\\monsters\\" + monster + ".html", false);
+		System.out.println(monster + " quests:\n");
 		return quests;
 	}
 

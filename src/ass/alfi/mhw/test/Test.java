@@ -1,14 +1,16 @@
 package ass.alfi.mhw.test;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
+import java.awt.Graphics2D;
+import java.awt.RenderingHints;
+import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 
+import javax.imageio.ImageIO;
+import javax.swing.ImageIcon;
+
+import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
@@ -22,30 +24,52 @@ public class Test {
 	final public static String feetPath = "src\\resources\\lists\\feetgear.json";
 
 	public static void main(String[] args) throws IOException {
-		getNames();
+//		System.out.println(getSkillProperties(Skill.ATTACKBOOST.getSkill()));
+		BufferedImage img = scaleImage();
+		File outputfile = new File("C:\\Users\\John\\Desktop\\quest.png");
+		ImageIO.write(img, "png", outputfile);
+		
 
 	}
-
-	public static JSONObject parseJSON() {
-		JSONParser parser = new JSONParser();
-		JSONObject jsonObject = null;
+	
+	public static BufferedImage scaleImage() {
+		BufferedImage bi = null;
 		try {
-			jsonObject = (JSONObject) parser.parse(new FileReader(skillsPath));
-			return jsonObject;
+			ImageIcon ii = new ImageIcon("C:\\Users\\John\\git\\MHWArmorBuild\\src\\resources\\icons\\quest.png");
+			bi = new BufferedImage(30, 30, BufferedImage.TYPE_INT_RGB);
+			Graphics2D g2d = (Graphics2D) bi.createGraphics();
+			g2d.addRenderingHints(new RenderingHints(RenderingHints.KEY_RENDERING, RenderingHints.VALUE_RENDER_QUALITY));
+			g2d.drawImage(ii.getImage(), 0, 0, 30, 30, null);
+		} catch (Exception e) {
+			e.printStackTrace();
+			return null;
+		}
+		return bi;
+	}
+
+	public static JSONArray parseJSON() {
+		JSONParser parser = new JSONParser();
+		JSONArray jsonArray = null;
+		try {
+			jsonArray = (JSONArray) parser.parse(new FileReader(skillsPath));
+			return jsonArray;
 		} catch (Exception e) {
 		}
-		return jsonObject;
+		return jsonArray;
 	}
 
-	public static void getNames() throws IOException {
-		String line = null;
-		line = Files.readAllLines(Paths.get(skillsPath)).get(2);
-		File tmp = File.createTempFile("tmp", "");
-
-		BufferedReader br = new BufferedReader(new FileReader(skillsPath));
-		BufferedWriter bw = new BufferedWriter(new FileWriter(tmp));
-		
-		bw.write("value1");
+	public static JSONObject getSkillProperties(String skill) throws IOException {
+		JSONArray jsonArray = parseJSON();
+		JSONObject jsonObject = new JSONObject();
+		JSONObject skillObject = new JSONObject();
+		for (int i = 0; i < jsonArray.size(); i++) {
+			jsonObject = (JSONObject) jsonArray.get(i);
+			skillObject = (JSONObject) jsonObject.get(skill);
+			if (skillObject != null) {
+				return skillObject;
+			}
+		}
+		return skillObject;
 	}
 
 }

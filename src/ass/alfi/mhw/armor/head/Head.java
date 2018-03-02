@@ -20,14 +20,15 @@ public class Head {
 		return jsonArray;
 	}
 
-	public void getNames() {
+	public StringBuilder getNames() {
 		JSONArray jsonArray = parseJSON();
 		JSONObject jsonObject = new JSONObject();
+		StringBuilder name = new StringBuilder();
 		for (int i = 0; i < jsonArray.size(); i++) {
 			jsonObject = (JSONObject) jsonArray.get(i);
-			String name = (String) jsonObject.get("name");
-			System.out.println(name);
+			name.append((String) jsonObject.get("name") + "\n");
 		}
+		return name;
 	}
 	
 }
